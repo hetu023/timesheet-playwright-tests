@@ -1,3 +1,5 @@
+![Playwright Tests](https://github.com/hetu023/timesheet-playwright-tests/actions/workflows/playwright.yml/badge.svg)
+
 # Playwright Page Object Model (POM)
 
 ## Project Structure
